@@ -1,6 +1,7 @@
 # Python-Matplotlib-Challenge
 
-Matplotlib - The power of plots
+
+# Matplotlib - The power of plots
 
 
 In this project, we are given the below task:
