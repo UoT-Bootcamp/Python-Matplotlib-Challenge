@@ -52,4 +52,4 @@ Look across all previously generated figures and tables and write at least three
 Here are some final considerations:
 
 
-* You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, x-axis and y-axis limits, etc.
+* We must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, x-axis and y-axis limits, etc.
