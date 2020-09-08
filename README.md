@@ -1,5 +1,3 @@
-# Python-Matplotlib-Challenge
-
 
 # Matplotlib - The power of plots
 
